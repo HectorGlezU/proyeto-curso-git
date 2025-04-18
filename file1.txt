@@ -1,1 +1,0 @@
-Curso de Git y GitHub, además se agregó la rama 2.
